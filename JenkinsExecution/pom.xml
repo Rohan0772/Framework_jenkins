@@ -59,7 +59,7 @@
 							<version>3.3.0</version>
 							<configuration>
 								<suiteXmlFiles>
-									<suiteXmlFile>systemtest.xmll</suiteXmlFile>
+									<suiteXmlFile>systemtest.xml</suiteXmlFile>
 								</suiteXmlFiles>
 							</configuration>
 						</plugin>
